@@ -5,6 +5,8 @@ At the top of the conversation display page, a toolbar provides shortcuts for co
 
 ![The conversation toolbar.](images/reference/display_toolbar.png)
 
+Above the toolbar, you'll see information about the tickets' _current state_. The subject of the ticket is displayed in green. Just under the subject, you can see the ticket's `status`, `group`, `bucket`, `mask`, and `id`, along with the `recipients`. Clicking on a recipient will popup a peek dialog allowing you to edit the contact. You can edit the list of recipients by clicking the _edit_ link to the right of the list of recipients.
+
 * **Edit** displays a popup to edit the conversation properties.
 
 * **Close** closes the conversation.  Closed conversations are considered to be resolved.  If you want to hide a conversation that is dependent on a future date (e.g. _"We'll cancel your site at the end of the month."_) then use _Waiting for reply_ instead. A closed conversation will be reopened automatically if a recipient replies.
